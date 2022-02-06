@@ -105,7 +105,6 @@
 				D79F73B6A69902E38BB6878D /* Pods-flixsterTests.debug.xcconfig */,
 				5ABF3979C637A6E9A1855C7A /* Pods-flixsterTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -601,6 +600,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VC75T2BNV5;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = flixster/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -629,6 +629,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VC75T2BNV5;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = flixster/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
